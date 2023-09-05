@@ -1,2 +1,1 @@
-# primerrepo-prephenry
-repositorio prueba modulo 2 prepcourseHenry
+Prueba como crear un repo y clonarlo desde guthub a mi desktop
